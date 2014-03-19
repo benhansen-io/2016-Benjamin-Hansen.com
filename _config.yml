@@ -1,0 +1,14 @@
+name: Benjamin Hansen
+description: The personal blog for Benjamin Hansen
+meta_description: "Benjamin Hansen"
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+permalink: posts/:title.html
+
+# Details for the RSS feed generator
+url:            'benjamin-hansen.com'
+author:         'Ben Hansen'
