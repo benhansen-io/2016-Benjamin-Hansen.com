@@ -1,0 +1,3 @@
+- [ ] Reduce font size
+- [ ] Get logo up
+- [ ] Publish an essay

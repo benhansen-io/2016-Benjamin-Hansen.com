@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About me
+title: About
 ---
 
-Started programming in 6th grade.
+Started programming in 6th grade. Started with Javascript and quickly moved on to Java. I read Herbert Schildt's Java and C++ Complete References while in middle school. I still love programming languages. Other interests include operating systems, machine learning, and open web technologies.
 
-Salt Lake City native.
+Salt Lake City native. Graduating from [Brigham Young University](http://byu.edu) in April.
 
-Enjoy running and swimming.
+I enjoy running and swimming. I am currently training for a Half Ironman.
 
-A [Mormon](http://www.mormon.org/me/2X41).
+I'm a [Mormon](http://www.mormon.org/me/2X41). My faith means a lot to me.

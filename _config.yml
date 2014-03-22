@@ -1,6 +1,7 @@
 name: Benjamin Hansen
 description: The personal blog for Benjamin Hansen
 meta_description: "Benjamin Hansen"
+github: https://github.com/benhansenslc/benjamin-hansen.com
 
 markdown: redcarpet
 pygments: true
