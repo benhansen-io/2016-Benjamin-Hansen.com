@@ -1,7 +1,7 @@
 Benjamin-Hansen.com
 ===================
 
-My personal site and blog. Jekyll static site.
+My old personal site and blog. No longer running for maintained. Soon to be replaced. Jekyll static site.
 
 ## Thanks
 
